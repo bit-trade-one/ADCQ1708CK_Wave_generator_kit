@@ -2,7 +2,7 @@
 
 ## 10Hz～20MHz程度の正弦波、矩形波、三角波と、0V～4.095VのDC信号を出力可能！ラズベリー・パイ＆ウィンドウズOSで気軽に扱える波形発生器Wave Generator！
 
-!()[https://bit-trade-one.co.jp/wp/wp-content/uploads/2017/07/65e1dedb308e5a5b1693cf202e0c8a31.png]  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2017/07/65e1dedb308e5a5b1693cf202e0c8a31.png)  
 
 波形発生器Wave Generatorは、10Hzから20MHz程度の正弦波、矩形波、三角波と、  
 0Vから最大4.095VのDC信号を1mVステップで出力可能です。  
