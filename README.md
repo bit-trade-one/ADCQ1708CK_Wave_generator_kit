@@ -15,7 +15,7 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adcq1708ck/)!
 
-## [PCBアプリ](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/tree/master/App)
+## [PCアプリ](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/tree/master/App)
 
 ## [マニュアル](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/blob/master/Manual/WaveGenerator_Manual.pdf)
 
