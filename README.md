@@ -19,6 +19,14 @@
 
 ## [マニュアル](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/blob/master/Manual/WaveGenerator_Manual.pdf)
 
+## Raspberry Pi用ソフトウェアについて
+
+[こちら](https://toragi.cqpub.co.jp/tabid/831/Default.html)のページの"2017年9月号"の欄にある"連載 スマホ＆大画面！Wi-Fi周波数レスポンス・アナライザ"より  
+Raspberry Pi用のソフトウェア類のソースコードをダウンロードいただけます。  （外部ページ：CQ出版トランジスタ技術サイトへ遷移）  
+別途、Web解説記事をご覧の上で動作させてくださいませ。  
+※ダウンロードしたzipファイル内の"Generator"が該当するファイルです。
+
+
 ## 測定性能仕様
 
 波形は正弦波と矩形波と三角波のいずれかを出力し、同時にDCレベルの信号も出力可能です。  
